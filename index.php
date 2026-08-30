@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Just index
+    Bruno Simon lessons for Three.js
 </body>
 </html>
